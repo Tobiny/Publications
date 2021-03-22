@@ -1,6 +1,6 @@
 package publication;
 
-//Se usó object,en vez de array y arraylist debido a que fue más cómodo y era un nuevo concepto que quisimos aplicar
+//Se usó object,en vez de array y arraylist debido a que fue más cómodo y era un nuevo concepto que quise aplicar
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
